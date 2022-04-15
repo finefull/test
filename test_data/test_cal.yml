@@ -1,0 +1,15 @@
+#add函数测试数据，div函数测试数据
+add1:
+  - {a: 1 , b: 2 , result: 3}
+  - {a: 2 , b: 2 , result: 4}
+  - {a: 3 , b: 2 , result: 5}
+  - {a: 1 , b: 2 , result: 3}
+  - {a: 2 , b: 2 , result: 4}
+  - {a: 8 , b: 8 , result: 20}
+  - {a: 22 , b: 8 , result: 30}
+div1:
+  - {a: 1 , b: 2 , result: 3}
+  - {a: 2 , b: 2 , result: 4}
+  - {a: 3 , b: 2 , result: 5}
+  - {a: 3 , b: 0 , result: False}
+  - {a: 55 , b: 0 , result: 5}
